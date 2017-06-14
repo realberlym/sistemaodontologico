@@ -1,0 +1,28 @@
+@media(max-width: 480px){
+
+  .lembrar-senha{
+    font-size: 8px;
+  }
+
+}
+
+@media(max-width: 480px){
+
+  .painel-topo{
+    font-size: 13px;
+
+  }
+
+}
+
+
+@media(max-width: 480px){
+
+  .wallpaper-mobile{
+    background-size: 480px;
+  }
+
+}
+
+
+
